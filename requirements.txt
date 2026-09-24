@@ -12,6 +12,5 @@ numpy>=1.26,<3
 cairosvg>=2.7,<3
 # Face detection and PP-OCRv5 Mobile burned-in-text detection.
 # RapidOCR declares GUI OpenCV; Docker removes that wheel and keeps headless.
-opencv-python-headless>=4.8,<5
 onnxruntime>=1.17,<2
 rapidocr>=3.8,<4
